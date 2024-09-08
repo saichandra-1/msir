@@ -68,7 +68,7 @@ function RecycleForm() {
         <div className="mb-6 p-4 bg-gray-50 border border-gray-200 rounded-md">
           <h2 className="text-xl font-semibold mb-2">Estimated Money</h2>
           <p className="text-lg font-semibold">₹{estimatedMoney.toFixed(2)}</p>
-          <Button onClick={handlePayment} className="w-full mt-4">Proceed to Payment</Button>
+          <Button onClick={handlePayment} className="w-full mt-4">Proceed to Withdraw</Button>
         </div>
       )}
     </div>

@@ -8,7 +8,7 @@ const Header = () => {
         <span className='text-orange-500'>M</span>
         <span>S</span>
         <span>I</span>
-        <span className='text-green-950'>R</span>
+        <span className='text-green-900'>R</span>
       </div>
       <nav>
         <ul className="flex space-x-6">
