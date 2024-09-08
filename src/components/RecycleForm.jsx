@@ -4,10 +4,10 @@ import { useNavigate } from "react-router-dom";
 import Button from "./Button";
 
 const rates = {
-  paper: 0.1,
-  iron: 0.2,
-  plastic: 0.15,
-  glass: 0.25,
+  paper: 11,
+  iron: 25,
+  plastic: 10,
+  glass: 4,
 };
 
 function RecycleForm() {

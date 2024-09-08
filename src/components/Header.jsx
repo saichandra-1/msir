@@ -4,7 +4,12 @@ import React from 'react';
 const Header = () => {
   return (
     <header className="flex justify-between items-center p-4 bg-green-600 text-white">
-      <div className="text-2xl font-bold">Mission Smart India Recycle</div>
+      <div className="text-2xl font-bold">
+        <span className='text-orange-500'>M</span>
+        <span>S</span>
+        <span>I</span>
+        <span className='text-green-950'>R</span>
+      </div>
       <nav>
         <ul className="flex space-x-6">
           <li><a href="/" className="hover:underline">Home</a></li>
