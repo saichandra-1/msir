@@ -24,7 +24,6 @@ function App() {
           <>
             <Hero /> {/* Optionally include Hero or any other common components */}
             <Payments />
-            <Footer />
           </>
         } />
       </Routes>
